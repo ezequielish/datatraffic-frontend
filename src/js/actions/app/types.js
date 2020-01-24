@@ -1,0 +1,6 @@
+export const TOGGLE_MODAL = "TOGGLE_MODAL"
+export const ISLOGGUED = "ISLOGGUED"
+export const CARGANDO = "CARGANDO_LOGIN"
+export const ERROR = "ERROR_LOGIN"
+export const USER_LEVEL = "USER_LEVEL"
+export const LIMPIAR = "LIMPIAR_FORN_LOGIN"

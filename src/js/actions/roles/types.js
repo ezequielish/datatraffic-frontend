@@ -1,0 +1,8 @@
+export const TRAER_ROLES = "TRAER_ROLES";
+export const ERROR = "ERROR_ROLES";
+export const CARGANDO = "CARGANDO_ROLES";
+export const RESET_ROLES = "RESET_ROLES";
+export const CARGANDO_GUARDAR = "CARGANDO_GUARDAR_ROLES";
+export const ERROR_GUARDAR = "ERROR_GUARDAR_ROLES";
+export const VALUE_ROL_NAME = "VALUE_ROL_NAME";
+export const VALUE_ROL_LEVEL = "VALUE_ROL_LEVEL";
